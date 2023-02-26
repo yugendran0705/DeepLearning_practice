@@ -1,0 +1,3 @@
+MATHS
+1.entropy
+2.Ginni impurity
